@@ -1,0 +1,20 @@
+.container{
+    padding: 60px;
+}
+
+nav{
+    ul{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 40px;
+}
+li{
+    display: inline-block;   
+}
+a{
+    color: #000000;
+    &:hover{
+        color: #333333;
+    }
+}
+}

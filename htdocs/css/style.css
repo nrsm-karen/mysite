@@ -1,16 +1,15 @@
-.container{
-    padding: 60px;
-}
+.container {
+  padding: 60px; }
 
-nav ul{
-    display: flex;
-    justify-content: space-between;
-    margin: 0 40px;
-}
-li{
-    display: inline-block;
-    
-}
-nav a{
-    color: #000000;
-}
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 40px; }
+
+nav li {
+  display: inline-block; }
+
+nav a {
+  color: #000000; }
+  nav a:hover {
+    color: #333333; }
