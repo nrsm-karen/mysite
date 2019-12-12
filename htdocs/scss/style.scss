@@ -1,5 +1,7 @@
+@charset "UTF-8";
+
 .container{
-    padding: 60px;
+    width: 100%;
 }
 
 nav{
@@ -17,4 +19,28 @@ a{
         color: #333333;
     }
 }
+}
+
+article{
+    padding: 40px;
+}
+#top{
+        background-image: url(/img/main_visual.jpg);
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        min-height: 500px;
+}
+#sec1{
+    background-color: antiquewhite;
+    min-height: 500px;
+}
+
+
+footer{
+    address{
+        font-size: 0.8rem;
+        text-align: center;
+        color: #333333;
+    }
 }
