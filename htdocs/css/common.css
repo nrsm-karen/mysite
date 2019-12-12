@@ -1,0 +1,44 @@
+html, body{
+    font-size: 16px;
+    font-family: "游ゴシック", "YuGothic", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 1.8rem;
+    color: #000000;
+}
+
+body{
+    max-width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+header{
+    background-color: #dbdbdb;
+    width: 100%;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    font-weight: 700;
+}
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+h4{
+    font-size: 1rem;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+
+
+
